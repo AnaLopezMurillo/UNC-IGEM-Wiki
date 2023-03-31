@@ -1,6 +1,6 @@
 # Team Example 2022 Wiki
 
-## TEST FOR COMMIT 
+Unofficial - this is just a test for iGEM at UNC's wiki for 2023
 
 This repository **MUST** contain all coding assets to generate your team's wiki (HTML, CSS, JavaScript, TypeScript, Python, etc).
 
