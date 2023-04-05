@@ -1,4 +1,4 @@
-# Team Example 2022 Wiki
+# iGEM at UNC intial website trial
 
 Unofficial - this is just a test for iGEM at UNC's wiki for 2023
 
